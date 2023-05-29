@@ -59,3 +59,11 @@
 #     print("Incorrect hours")
 
 ##
+# film_rating = int(input("Enter film rating: "))
+#
+# if film_rating == 5 or film_rating == 4:
+#     print("Good")
+# else:
+#     print("Bad")
+
+
