@@ -46,4 +46,16 @@
 # унарный - у него один операнд
 # бинарный - у него два операнда
 
+# and -> логическое и, вернет True если оба операнда равны True, иначе вернет False
+# or -> логическое или, вернет True если хотя бы один операнд равен True, иначе вернет False
 
+# hours = int(input("Enter hours: "))
+#
+# if 12 <= hours < 24:
+#     print("PM")
+# elif hours >= 0 and hours < 12:
+#     print("AM")
+# else:
+#     print("Incorrect hours")
+
+##
