@@ -1,3 +1,4 @@
+print("World")
 # 1
 
 # num1 = int(input("Enter first number: "))
