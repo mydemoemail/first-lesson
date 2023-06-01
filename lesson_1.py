@@ -66,4 +66,33 @@
 # else:
 #     print("Bad")
 
+#######################
+
+# num1 = int(input("Enter first number: "))
+# num2 = int(input("Enter second number: "))
+# num3 = int(input("Enter third number: "))
+# user_select = int(input("1 - max number\n2 - min number\n3 - average number: "))
+#
+# if user_select == 1:
+#     if num1 >= num2 and num1 >= num3:
+#         print(num1)
+#     elif num2 >= num1 and num2 >= num3:
+#         print(num2)
+#     elif num3 >= num1 and num3 >= num2:
+#         print(num2)
+#     else:
+#         print("No number")
+# elif user_select == 2:
+#     if num1 <= num2 and num1 <= num3:
+#         print(num1)
+#     elif num2 <= num1 and num2 <= num3:
+#         print(num2)
+#     elif num3 <= num1 and num3 <= num2:
+#         print(num2)
+#     else:
+#         print("No number")
+# elif user_select == 3:
+#     print(f"average number: {(num1 + num2 + num3) / 3}")
+# else:
+#     print("Incorrect input!")
 
