@@ -1,3 +1,5 @@
+print("Hello")
+
 # 1
 
 # num1 = int(input("Enter first number: "))
@@ -95,4 +97,5 @@
 #     print(f"average number: {(num1 + num2 + num3) / 3}")
 # else:
 #     print("Incorrect input!")
+
 
